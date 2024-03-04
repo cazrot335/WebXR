@@ -1,23 +1,8 @@
-# Expo Starter Kit (JavaScript)
+# React + Vite
 
-## Installation
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-```shell
-npm install
-```
+Currently, two official plugins are available:
 
-## Running
-
-```shell
-npm run start`
-```
-
-## Expo Docs
-
-[Expo Docs](https://docs.expo.dev/)
-
-## Need help?
-
-<a href="https://discord.gg/H3ksm5NhzT">
-   <img src="https://discordapp.com/api/guilds/774471080713781259/widget.png?style=banner2" alt="Discord Banner 2"/>
-</a>
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
